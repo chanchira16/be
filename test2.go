@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-func main()}
-
+func main() {
 	fmt.Println("จันทร์จิรา วังสงคราม")
 }
