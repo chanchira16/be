@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	name := "janjira"
-	link := cat
+	name := "Janjira"
+	like := Cat
 	fmt.Println("My name is", name)
-	fmt.Println("I am ", link, "I link")
+	fmt.Println("I am ", like, "I link")
 }
