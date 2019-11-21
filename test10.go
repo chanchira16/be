@@ -6,5 +6,5 @@ const greenting ="hello janjira"
 
 func main() {
 	fmt.Println(greenting)
-	greenting"hello janjira"
+	greenting"hello welt"
 	fmt.Println(greenting)
