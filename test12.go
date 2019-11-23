@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println(Strings.Index("Hello World", "world"))
-	fmt.Println(Strings.Index("Hello World", "World"))
+	fmt.Println(search.Index("Hello World", "world"))
+	fmt.Println(search.Index("Hello World", "World"))
 }
