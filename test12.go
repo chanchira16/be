@@ -6,8 +6,8 @@ import (
 )
 
 func  main() {
-	fmt.Println(strings.Index("Janjira","be"))
-	fmt.Println(strings.Index("Janjira","Be"))
+	fmt.Println(strings.Index("Hello world","world"))
+	fmt.Println(strings.Index("Hello world","World"))
 
 
 
