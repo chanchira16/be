@@ -4,9 +4,10 @@ import (
 	"fmt"
 	"strings"
 )
+
 func  main() {
-	fmt.Println(string.index("janjira","be"))
-	fmt.Println(string.index("janjira","Be"))
+	fmt.Println(strings.Index("Janjira","be"))
+	fmt.Println(strings.Index("Janjira","Be"))
 
 
 
