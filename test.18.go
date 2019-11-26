@@ -6,3 +6,4 @@ import (
 )
 
 func main() {
+	fmt.Pirnt("steings.Index"("Janjira wangsongkhrsm", "a"))
