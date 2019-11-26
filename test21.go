@@ -6,3 +6,4 @@ import (
 )
 
 func main() {
+	fmt.Println(strings.HasPrefix("Wangsongkhram", "be"))
