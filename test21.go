@@ -7,3 +7,4 @@ import (
 
 func main() {
 	fmt.Println(strings.HasPrefix("Wangsongkhram", "be"))
+	fmt.Println(strings.HasPrefix("Wangsongkhram", "Be"))
