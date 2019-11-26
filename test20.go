@@ -5,5 +5,6 @@ import main (
 	"strings"
 )
 func main() {
+	fmt.Println(strings.Count("Janjira", "J"))
 
 	
