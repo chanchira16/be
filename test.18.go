@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Pirntln(steings.Index("Janjira Wangsongkhrsm", "a"))
-	fmt.Pirntln(steings.LestIndex("Janjira WangSongkhram", "a"))
+	fmt.Println(strings.Index("Janjira Wangsongkhrsm", "a"))
+	fmt.Println(strings.LastIndex("Janjira WangSongkhram", "a"))
 }
