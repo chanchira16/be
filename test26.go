@@ -11,3 +11,4 @@ func main() {
 	n, err := fmt.Scan(&name, &age, &ing, &heigth, &weigth)
 	fmt.println(name, age, ing, heigth, weigth)
 	fmt.println(`name of argumment `, n)
+	fmt.println(`error `, err)
