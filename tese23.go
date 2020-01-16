@@ -7,5 +7,5 @@ func main() {
 	fmt.Print("number of byter written :", n, "\n")
 	fmt.Print("write error encountered :", e, "\n")
 
-
+}
 
