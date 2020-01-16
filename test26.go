@@ -9,7 +9,7 @@ func main() {
 	var heigth float32
 	var weigth float32
 	n, err := fmt.Scan(&name, &age, &ing, &weigth, &heigth)
-	fmt.println(name, age, ing, weigth, heigth)
-	fmt.println(`name of argument `, n)
-	fmt.println(`error `, err)
+	fmt. Println(name, age, ing, weigth, heigth)
+	fmt. Println(`name of argument `, n)
+	fmt. Pintln(`error `, err)
 }
