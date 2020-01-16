@@ -9,3 +9,4 @@ func main() {
 	fmt.Println("name ", name)
 	fmt.Println("age ", age)
 	fmt.Println("nameber of items successfully scanned ", n)
+	fmt.Println("error ", e)
