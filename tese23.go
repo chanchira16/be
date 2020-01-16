@@ -1,6 +1,6 @@
 package main
 
-imporn "fmt"
+import "fmt"
 
 func main() {
 	n, e := fmt.Print("Hello", "world", 123, 456, "\n")
